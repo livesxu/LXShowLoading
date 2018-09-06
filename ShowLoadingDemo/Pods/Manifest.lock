@@ -1,0 +1,28 @@
+PODS:
+  - LXShowLoading (0.1.0):
+    - MBProgressHUD
+  - MBProgressHUD (1.1.0)
+
+DEPENDENCIES:
+  - LXShowLoading (from `https://github.com/livesxu/LXShowLoading.git`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  LXShowLoading:
+    :git: https://github.com/livesxu/LXShowLoading.git
+
+CHECKOUT OPTIONS:
+  LXShowLoading:
+    :commit: bd7d3275d5e7e872881f61bc17cc2c2fcbf6bf63
+    :git: https://github.com/livesxu/LXShowLoading.git
+
+SPEC CHECKSUMS:
+  LXShowLoading: 8ef504de5663f424efc134d0b291a7565bcb6594
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+
+PODFILE CHECKSUM: 464914fb6315a6c025f84d3ef7e2bcafc25758e4
+
+COCOAPODS: 1.5.3

@@ -5,8 +5,6 @@
 
 void ShowMessage(NSString *statues);
 
-void ShowLoading(void);
-
 void BeginLoading(void);
 
 void EndLoading(void);

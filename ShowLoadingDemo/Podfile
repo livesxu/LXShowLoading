@@ -1,0 +1,9 @@
+platform :ios, ‘8.1’
+
+use_frameworks!
+
+target ‘ShowLoadingDemo’ do
+
+pod 'LXShowLoading’,:git => 'https://github.com/livesxu/LXShowLoading.git'
+
+end

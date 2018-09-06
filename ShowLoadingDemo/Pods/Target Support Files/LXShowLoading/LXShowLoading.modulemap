@@ -1,0 +1,6 @@
+framework module LXShowLoading {
+  umbrella header "LXShowLoading-umbrella.h"
+
+  export *
+  module * { export * }
+}

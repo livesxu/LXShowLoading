@@ -1,0 +1,25 @@
+{
+  "name": "LXShowLoading",
+  "version": "0.1.0",
+  "summary": "LXShowLoading",
+  "homepage": "https://github.com/livesxu/LXShowLoading.git",
+  "license": "MIT",
+  "authors": {
+    "livesxu": "livesxu@163.com"
+  },
+  "platforms": {
+    "ios": "5.0"
+  },
+  "source": {
+    "git": "https://github.com/livesxu/LXShowLoading.git",
+    "tag": "0.1.0"
+  },
+  "source_files": "LXShowLoading",
+  "frameworks": "UIKit",
+  "requires_arc": true,
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}

@@ -10,11 +10,6 @@ void ShowMessage(NSString *statues){
     [keyWindow showHint:statues];
 }
 
-void ShowLoading(void){
-    
-    [[LXLoadingView shareLoading] startAnimating];
-}
-
 void BeginLoading(void){
     
     [[LXLoadingView shareLoading] startAnimating];
